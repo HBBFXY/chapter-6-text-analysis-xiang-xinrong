@@ -6,5 +6,5 @@ def analyze_text(s):
     for char, count in sorted_chars:
         print(char)
 
-text = input("请输入字符串: ")
+text = input("hello world")
 analyze_text(text)
